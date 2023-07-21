@@ -1,6 +1,6 @@
 # PhishingPages
 
-#Create a BeEF serve.
+#Create a BeEF server.
 
 #Delete or rename the index.html file at '/home/beef/extensions/demos/html/butcher' on your BeEF server,
 
